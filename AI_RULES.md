@@ -10,8 +10,8 @@ This document outlines the core technologies and development conventions for thi
 *   **Styling:** Tailwind CSS (Extensive use of utility classes is mandatory)
 *   **UI Components:** shadcn/ui (Prebuilt components are available and preferred)
 *   **Icons:** \`lucide-react\`
-*   **Component Structure:** Pages reside in \`src/pages/\` and reusable components in \`src/components/\`
-*   **Source Code:** All application source code is located within the \`src/\` directory.
+*   **Source Code Location:** All application source code is located within the \`src/\` directory.
+*   **Component Structure:** Pages reside in \`src/pages/\` and reusable components in \`src/components/\`.
 
 ## Library Usage Rules
 
