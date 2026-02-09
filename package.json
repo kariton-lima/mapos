@@ -1,4 +1,8 @@
 {
   "name": "mapos",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.25.0",
+  "scripts": {
+    "dev": "echo \"MapOS é um projeto PHP, não há ambiente Node\""
+  }
 }
